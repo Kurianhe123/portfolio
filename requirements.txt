@@ -1,0 +1,6 @@
+﻿@"
+streamlit
+pandas
+plotly
+streamlit-option-menu
+"@ | Out-File -FilePath requirements.txt -Encoding UTF8
